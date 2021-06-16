@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎈 I’m currently working on Sotfware Development
+🎈 I’m currently working on Sotfware Development <br>
 👯 I’m looking to collaborate on [Lucas](https://github.com/LS-ELLO/Lucas)
 
 <!--

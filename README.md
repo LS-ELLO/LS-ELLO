@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on Sotfware Development
+🎈 I’m currently working on Sotfware Development
+👯 I’m looking to collaborate on [Lucas](https://github.com/LS-ELLO/Lucas)
 
 <!--
 **LS-ELLO/LS-ELLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
